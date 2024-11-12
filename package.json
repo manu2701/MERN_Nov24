@@ -1,0 +1,15 @@
+{
+  "name": "mern_nov24",
+  "version": "1.0.0",
+  "description": "Mern Tech Stack using Bootstrap,ejs and etc.",
+  "main": "calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.8.1"
+  }
+}
